@@ -1,3 +1,7 @@
+
+https://arxiv.org/abs/1812.00104
+
+
 # ThirdToFirst
 
 [Real Splits](https://knightsucfedu39751-my.sharepoint.com/:u:/g/personal/m_elfeki11_knights_ucf_edu/EbyGNDNm1I5HrPV5_NKWv1MBKmmtS5FuVXzLieQE3ZNySQ?e=rwFqoP)
