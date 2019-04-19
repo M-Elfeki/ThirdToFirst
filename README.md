@@ -1,5 +1,8 @@
 From Third Person to First Person: Dataset and Baselines for Synthesis and Retrieval
+
 https://arxiv.org/abs/1812.00104
+
+Accepted for presentation at EPIC@CVPR2019 workshop
 
 
 # ThirdToFirst
