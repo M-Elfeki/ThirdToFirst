@@ -25,6 +25,8 @@ The synthetic dataset organized as the training/validation/testing splits: [Synt
 
 The generator used to syntheize data with the running instructions can be found here: [Synthetic Dataset Generator](https://knightsucfedu39751-my.sharepoint.com/:u:/g/personal/m_elfeki11_knights_ucf_edu/EZzWNNEzfwROr13OFZOMwT4BMsCivGGmKg-dY0Lo6-9oQQ?e=eGyuW5)
 
+You can find the instructions for the synthetic generator in "Readme.txt".
+
 
 
 Final Results can be found here: [Final Results](https://knightsucfedu39751-my.sharepoint.com/:f:/g/personal/m_elfeki11_knights_ucf_edu/ElvMe59itOVKs3Z-v20O4pwBb64xyjME5k4YGAKpCGZTOQ?e=X2xMEL)
